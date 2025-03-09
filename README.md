@@ -5,4 +5,4 @@ matrix display.
 ### Hardware<br>
 Project uses Raspberry Pi connecting to display with Adafruit matrix bonnet.
 ### Dependencies<br>
-Uses hzeller rpi-rgb-led-matrix library.
+Uses hzeller rpi-rgb-led-matrix library and nyct-gtfs library.
